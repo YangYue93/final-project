@@ -1,218 +1,218 @@
-CountryName,CountryCode,AIIB member
-Afghanistan,AFG,0
-Albania,ALB,0
-Algeria,DZA,0
-American Samoa,ASM,0
-Andorra,ADO,0
-Angola,AGO,0
-Antigua and Barbuda,ATG,0
-Argentina,ARG,0
-Armenia,ARM,0
-Aruba,ABW,0
-Australia,AUS,1
-Austria,AUT,1
-Azerbaijan,AZE,1
-"Bahamas, The",BHS,0
-Bahrain,BHR,0
-Bangladesh,BGD,1
-Barbados,BRB,0
-Belarus,BLR,0
-Belgium,BEL,0
-Belize,BLZ,0
-Benin,BEN,0
-Bermuda,BMU,0
-Bhutan,BTN,0
-Bolivia,BOL,0
-Bosnia and Herzegovina,BIH,0
-Botswana,BWA,0
-Brazil,BRA,1
-British Virgin Islands,VGB,0
-Brunei Darussalam,BRN,1
-Bulgaria,BGR,0
-Burkina Faso,BFA,0
-Burundi,BDI,0
-Cabo Verde,CPV,0
-Cambodia,KHM,1
-Cameroon,CMR,0
-Canada,CAN,0
-Cayman Islands,CYM,0
-Central African Republic,CAF,0
-Chad,TCD,0
-Channel Islands,CHI,0
-Chile,CHL,0
-China,CHN,1
-Colombia,COL,0
-Comoros,COM,0
-"Congo, Dem. Rep.",ZAR,0
-"Congo, Rep.",COG,0
-Costa Rica,CRI,0
-Cote d'Ivoire,CIV,0
-Croatia,HRV,0
-Cuba,CUB,0
-Curacao,CUW,0
-Cyprus,CYP,0
-Czech Republic,CZE,0
-Denmark,DNK,1
-Djibouti,DJI,0
-Dominica,DMA,0
-Dominican Republic,DOM,0
-Ecuador,ECU,0
-"Egypt, Arab Rep.",EGY,1
-El Salvador,SLV,0
-Equatorial Guinea,GNQ,0
-Eritrea,ERI,0
-Estonia,EST,0
-Ethiopia,ETH,0
-Faroe Islands,FRO,0
-Fiji,FJI,0
-Finland,FIN,1
-France,FRA,1
-French Polynesia,PYF,0
-Gabon,GAB,0
-"Gambia, The",GMB,0
-Georgia,GEO,1
-Germany,DEU,1
-Ghana,GHA,0
-Gibraltar,GIB,0
-Greece,GRC,0
-Greenland,GRL,0
-Grenada,GRD,0
-Guam,GUM,0
-Guatemala,GTM,0
-Guinea,GIN,0
-Guinea-Bissau,GNB,0
-Guyana,GUY,0
-Haiti,HTI,0
-Honduras,HND,0
-"Hong Kong SAR, China",HKG,0
-Hungary,HUN,0
-Iceland,ISL,1
-India,IND,1
-Indonesia,IDN,1
-"Iran, Islamic Rep.",IRN,1
-Iraq,IRQ,0
-Ireland,IRL,0
-Isle of Man,IMY,0
-Israel,ISR,1
-Italy,ITA,1
-Jamaica,JAM,0
-Japan,JPN,0
-Jordan,JOR,1
-Kazakhstan,KAZ,1
-Kenya,KEN,0
-Kiribati,KIR,0
-"Korea, Dem. People‰Ûªs Rep.",PRK,1
-"Korea, Rep.",KOR,0
-Kosovo,KSV,0
-Kuwait,KWT,1
-Kyrgyz Republic,KGZ,1
-Lao PDR,LAO,1
-Latvia,LVA,0
-Lebanon,LBN,0
-Lesotho,LSO,0
-Liberia,LBR,0
-Libya,LBY,0
-Liechtenstein,LIE,0
-Lithuania,LTU,0
-Luxembourg,LUX,1
-"Macao SAR, China",MAC,0
-"Macedonia, FYR",MKD,0
-Madagascar,MDG,0
-Malawi,MWI,0
-Malaysia,MYS,1
-Maldives,MDV,1
-Mali,MLI,0
-Malta,MLT,1
-Marshall Islands,MHL,0
-Mauritania,MRT,0
-Mauritius,MUS,0
-Mexico,MEX,0
-"Micronesia, Fed. Sts.",FSM,0
-Moldova,MDA,0
-Monaco,MCO,0
-Mongolia,MNG,1
-Montenegro,MNE,0
-Morocco,MAR,0
-Mozambique,MOZ,0
-Myanmar,MMR,1
-Namibia,NAM,0
-Nauru,NRU,0
-Nepal,NPL,1
-Netherlands,NLD,1
-New Caledonia,NCL,0
-New Zealand,NZL,1
-Nicaragua,NIC,0
-Niger,NER,0
-Nigeria,NGA,0
-Northern Mariana Islands,MNP,0
-Norway,NOR,1
-Oman,OMN,1
-Pakistan,PAK,1
-Palau,PLW,0
-Panama,PAN,0
-Papua New Guinea,PNG,0
-Paraguay,PRY,0
-Peru,PER,0
-Philippines,PHL,1
-Poland,POL,1
-Portugal,PRT,1
-Puerto Rico,PRI,0
-Qatar,QAT,1
-Romania,ROM,0
-Russian Federation,RUS,1
-Rwanda,RWA,0
-Samoa,WSM,0
-San Marino,SMR,0
-Sao Tome and Principe,STP,0
-Saudi Arabia,SAU,1
-Senegal,SEN,0
-Serbia,SRB,0
-Seychelles,SYC,0
-Sierra Leone,SLE,0
-Singapore,SGP,1
-Sint Maarten (Dutch part),SXM,0
-Slovak Republic,SVK,0
-Slovenia,SVN,0
-Solomon Islands,SLB,0
-Somalia,SOM,0
-South Africa,ZAF,1
-South Sudan,SSD,0
-Spain,ESP,1
-Sri Lanka,LKA,1
-St. Kitts and Nevis,KNA,0
-St. Lucia,LCA,0
-St. Martin (French part),MAF,0
-St. Vincent and the Grenadines,VCT,0
-Sudan,SDN,0
-Suriname,SUR,0
-Swaziland,SWZ,0
-Sweden,SWE,1
-Switzerland,CHE,1
-Syrian Arab Republic,SYR,0
-Tajikistan,TJK,1
-Tanzania,TZA,0
-Thailand,THA,1
-Timor-Leste,TMP,0
-Togo,TGO,0
-Tonga,TON,0
-Trinidad and Tobago,TTO,0
-Tunisia,TUN,0
-Turkey,TUR,1
-Turkmenistan,TKM,0
-Turks and Caicos Islands,TCA,0
-Tuvalu,TUV,0
-Uganda,UGA,0
-Ukraine,UKR,0
-United Arab Emirates,ARE,1
-United Kingdom,GBR,1
-United States,USA,0
-Uruguay,URY,0
-Uzbekistan,UZB,1
-Vanuatu,VUT,0
-"Venezuela, RB",VEN,0
-Vietnam,VNM,1
-Virgin Islands (U.S.),VIR,0
-West Bank and Gaza,WBG,0
-"Yemen, Rep.",YEM,0
-Zambia,ZMB,0
-Zimbabwe,ZWE,0
+CountryName,CountryCode,AIIB member,IMF voting power
+Afghanistan,AFG,0,0.09
+Albania,ALB,0,0.06
+Algeria,DZA,0,0.42
+American Samoa,ASM,0,0
+Andorra,ADO,0,0
+Angola,AGO,0,0.18
+Antigua and Barbuda,ATG,0,0.03
+Argentina,ARG,0,0.66
+Armenia,ARM,0,0.05
+Aruba,ABW,0,0
+Australia,AUS,1,1.34
+Austria,AUT,1,0.81
+Azerbaijan,AZE,1,0.11
+"Bahamas, The",BHS,0,0.07
+Bahrain,BHR,0,0.11
+Bangladesh,BGD,1,0.24
+Barbados,BRB,0,0.05
+Belarus,BLR,0,0.16
+Belgium,BEL,0,1.3
+Belize,BLZ,0,0.03
+Benin,BEN,0,0.05
+Bermuda,BMU,0,0
+Bhutan,BTN,0,0.03
+Bolivia,BOL,0,0.06
+Bosnia and Herzegovina,BIH,0,0.08
+Botswana,BWA,0,0.07
+Brazil,BRA,1,2.22
+British Virgin Islands,VGB,0,0
+Brunei Darussalam,BRN,1,0.09
+Bulgaria,BGR,0,0.21
+Burkina Faso,BFA,0,0.05
+Burundi,BDI,0,0.06
+Cabo Verde,CPV,0,0.03
+Cambodia,KHM,1,0.06
+Cameroon,CMR,0,0.08
+Canada,CAN,0,2.22
+Cayman Islands,CYM,0,0
+Central African Republic,CAF,0,0.05
+Chad,TCD,0,0.06
+Channel Islands,CHI,0,0
+Chile,CHL,0,0.38
+China,CHN,1,6.09
+Colombia,COL,0,0.44
+Comoros,COM,0,0.03
+"Congo, Dem. Rep.",ZAR,0,0.24
+"Congo, Rep.",COG,0,0.05
+Costa Rica,CRI,0,0.1
+Cote d'Ivoire,CIV,0,0.16
+Croatia,HRV,0,0.17
+Cuba,CUB,0,0
+Curacao,CUW,0,0
+Cyprus,CYP,0,0.09
+Czech Republic,CZE,0,0.46
+Denmark,DNK,1,0.71
+Djibouti,DJI,0,0.04
+Dominica,DMA,0,0.03
+Dominican Republic,DOM,0,0.12
+Ecuador,ECU,0,0.17
+"Egypt, Arab Rep.",EGY,1,0.43
+El Salvador,SLV,0,0.09
+Equatorial Guinea,GNQ,0,0.06
+Eritrea,ERI,0,0.03
+Estonia,EST,0,0.08
+Ethiopia,ETH,0,0.09
+Faroe Islands,FRO,0,0
+Fiji,FJI,0,0.05
+Finland,FIN,1,0.51
+France,FRA,1,4.04
+French Polynesia,PYF,0,0
+Gabon,GAB,0,0.07
+"Gambia, The",GMB,0,0.04
+Georgia,GEO,1,0.07
+Germany,DEU,1,5.33
+Ghana,GHA,0,0.18
+Gibraltar,GIB,0,0
+Greece,GRC,0,0.51
+Greenland,GRL,0,0
+Grenada,GRD,0,0.03
+Guam,GUM,0,0
+Guatemala,GTM,0,0.11
+Guinea,GIN,0,0.07
+Guinea-Bissau,GNB,0,0.03
+Guyana,GUY,0,0.07
+Haiti,HTI,0,0.06
+Honduras,HND,0,0.08
+"Hong Kong SAR, China",HKG,0,0
+Hungary,HUN,0,0.41
+Iceland,ISL,1,0.09
+India,IND,1,2.64
+Indonesia,IDN,1,0.95
+"Iran, Islamic Rep.",IRN,1,0.74
+Iraq,IRQ,0,0.36
+Ireland,IRL,0,0.72
+Isle of Man,IMY,0,0
+Israel,ISR,1,0.41
+Italy,ITA,1,3.03
+Jamaica,JAM,0,0.11
+Japan,JPN,0,6.16
+Jordan,JOR,1,0.1
+Kazakhstan,KAZ,1,0.26
+Kenya,KEN,0,0.14
+Kiribati,KIR,0,0.03
+"Korea, Dem. Peopleäó»s Rep.",PRK,1,1.74
+"Korea, Rep.",KOR,0,0
+Kosovo,KSV,0,0.05
+Kuwait,KWT,1,0.41
+Kyrgyz Republic,KGZ,1,0.05
+Lao PDR,LAO,1,0.05
+Latvia,LVA,0,0.1
+Lebanon,LBN,0,0.16
+Lesotho,LSO,0,0.04
+Liberia,LBR,0,0.08
+Libya,LBY,0,0.34
+Liechtenstein,LIE,0,0
+Lithuania,LTU,0,0.12
+Luxembourg,LUX,1,0.29
+"Macao SAR, China",MAC,0,0
+"Macedonia, FYR",MKD,0,0.06
+Madagascar,MDG,0,0.08
+Malawi,MWI,0,0.06
+Malaysia,MYS,1,0.75
+Maldives,MDV,1,0.03
+Mali,MLI,0,0.07
+Malta,MLT,1,0.06
+Marshall Islands,MHL,0,0.03
+Mauritania,MRT,0,0.05
+Mauritius,MUS,0,0.06
+Mexico,MEX,0,1.8
+"Micronesia, Fed. Sts.",FSM,0,0.03
+Moldova,MDA,0,0.06
+Monaco,MCO,0,0
+Mongolia,MNG,1,0.04
+Montenegro,MNE,0,0.04
+Morocco,MAR,0,0.21
+Mozambique,MOZ,0,0.07
+Myanmar,MMR,1,0.13
+Namibia,NAM,0,0.07
+Nauru,NRU,0,0.03
+Nepal,NPL,1,0.06
+Netherlands,NLD,1,1.77
+New Caledonia,NCL,0,0
+New Zealand,NZL,1,0.28
+Nicaragua,NIC,0,0.08
+Niger,NER,0,0.06
+Nigeria,NGA,0,0.52
+Northern Mariana Islands,MNP,0,0
+Norway,NOR,1,0.78
+Oman,OMN,1,0.14
+Pakistan,PAK,1,0.43
+Palau,PLW,0,0.03
+Panama,PAN,0,0.1
+Papua New Guinea,PNG,0,0.06
+Paraguay,PRY,0,0.07
+Peru,PER,0,0.29
+Philippines,PHL,1,0.44
+Poland,POL,1,0.84
+Portugal,PRT,1,0.44
+Puerto Rico,PRI,0,0
+Qatar,QAT,1,0.18
+Romania,ROM,0,0.39
+Russian Federation,RUS,1,2.59
+Rwanda,RWA,0,0.06
+Samoa,WSM,0,0.03
+San Marino,SMR,0,0.04
+Sao Tome and Principe,STP,0,0.03
+Saudi Arabia,SAU,1,2.02
+Senegal,SEN,0,0.09
+Serbia,SRB,0,0.16
+Seychelles,SYC,0,0.03
+Sierra Leone,SLE,0,0.07
+Singapore,SGP,1,0.8
+Sint Maarten (Dutch part),SXM,0,0
+Slovak Republic,SVK,0,0.23
+Slovenia,SVN,0,0.15
+Solomon Islands,SLB,0,0.03
+Somalia,SOM,0,0.04
+South Africa,ZAF,1,0.64
+South Sudan,SSD,0,0.08
+Spain,ESP,1,1.93
+Sri Lanka,LKA,1,0.14
+St. Kitts and Nevis,KNA,0,0.03
+St. Lucia,LCA,0,0.03
+St. Martin (French part),MAF,0,0
+St. Vincent and the Grenadines,VCT,0,0.03
+Sudan,SDN,0,0.06
+Suriname,SUR,0,0.05
+Swaziland,SWZ,0,0.04
+Sweden,SWE,1,0.91
+Switzerland,CHE,1,1.18
+Syrian Arab Republic,SYR,0,0.09
+Tajikistan,TJK,1,0.06
+Tanzania,TZA,0,0.11
+Thailand,THA,1,0.67
+Timor-Leste,TMP,0,0.03
+Togo,TGO,0,0.06
+Tonga,TON,0,0.03
+Trinidad and Tobago,TTO,0,0.12
+Tunisia,TUN,0,0.14
+Turkey,TUR,1,0.96
+Turkmenistan,TKM,0,0.08
+Turks and Caicos Islands,TCA,0,0
+Tuvalu,TUV,0,0.03
+Uganda,UGA,0,0.1
+Ukraine,UKR,0,0.43
+United Arab Emirates,ARE,1,0.49
+United Kingdom,GBR,1,4.04
+United States,USA,0,16.53
+Uruguay,URY,0,0.11
+Uzbekistan,UZB,1,0.14
+Vanuatu,VUT,0,0.03
+"Venezuela, RB",VEN,0,0.77
+Vietnam,VNM,1,0.26
+Virgin Islands (U.S.),VIR,0,0
+West Bank and Gaza,WBG,0,0
+"Yemen, Rep.",YEM,0,0.13
+Zambia,ZMB,0,0.22
+Zimbabwe,ZWE,0,0.17
